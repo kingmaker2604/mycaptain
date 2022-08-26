@@ -28,7 +28,7 @@ def most_frequent(arr, Len):
 		occ.pop(arg_max)
 		size -= 1
 
-Str = "shiyasingh"
+Str = input("enter the string: ")
 Len = len(Str)
 
 
